@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\BiggerThanTwoNeighbours\bin\Debug\BiggerThanTwoNeighbours.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\BiggerThanTwoNeighbours\obj\Debug\BiggerThanTwoNeighbours.exe
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\BiggerThanTwoNeighbours\obj\Debug\BiggerThanTwoNeighbours.pdb
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\BiggerThanTwoNeighbours\bin\Debug\BiggerThanTwoNeighbours.exe
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\BiggerThanTwoNeighbours\bin\Debug\BiggerThanTwoNeighbours.pdb
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\BiggerThanTwoNeighbours\obj\Debug\05.BiggerThanTwoNeighbours.csprojResolveAssemblyReference.cache

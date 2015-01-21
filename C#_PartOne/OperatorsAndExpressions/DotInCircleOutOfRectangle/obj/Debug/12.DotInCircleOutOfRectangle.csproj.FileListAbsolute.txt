@@ -1,0 +1,3 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\DotInCircleOutOfRectangle\bin\Debug\DotInCircleOutOfRectangle.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\DotInCircleOutOfRectangle\obj\Debug\DotInCircleOutOfRectangle.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\DotInCircleOutOfRectangle\obj\Debug\DotInCircleOutOfRectangle.pdb

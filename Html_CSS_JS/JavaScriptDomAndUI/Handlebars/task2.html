@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Ze Select</title>
+</head>
+<body>
+<div id="container">Hm.....</div>
+<script src="handlebars.js"></script>
+
+<script type="text/x-handlebars-template" id="post-template">
+    <div>
+        <select>
+            {{#each items}}
+            <option value="{{value}}">{{text}}</option>
+            {{/each}}
+        </select>
+    </div>
+</script>
+
+<script>
+    var items = [
+        {
+            value: 1,
+            text: 'One'
+        },
+        {
+            value: 2,
+            text: 'Two'
+        },
+        {
+            value: 3,
+            text: 'Three'
+        },
+        {
+            value: 4,
+            text: 'Four'
+        },
+        {
+            value: 5,
+            text: 'Five'
+        }
+    ];
+
+    var templateSource = document.getElementById('post-template').innerHTML;
+    var template = Handlebars.compile(templateSource);
+
+    var selectOptionsHtml = template({items: items});
+
+    var container = document.getElementById('container');
+    container.innerHTML += selectOptionsHtml;
+</script>
+</body>
+</html>

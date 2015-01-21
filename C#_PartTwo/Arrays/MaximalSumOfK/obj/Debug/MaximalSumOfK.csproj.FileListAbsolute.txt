@@ -1,0 +1,6 @@
+E:\Projects\C#Part2\Array\Arrays\MaximalSumOfK\bin\Debug\MaximalSumOfK.exe.config
+E:\Projects\C#Part2\Array\Arrays\MaximalSumOfK\bin\Debug\MaximalSumOfK.exe
+E:\Projects\C#Part2\Array\Arrays\MaximalSumOfK\bin\Debug\MaximalSumOfK.pdb
+E:\Projects\C#Part2\Array\Arrays\MaximalSumOfK\obj\Debug\MaximalSumOfK.csprojResolveAssemblyReference.cache
+E:\Projects\C#Part2\Array\Arrays\MaximalSumOfK\obj\Debug\MaximalSumOfK.exe
+E:\Projects\C#Part2\Array\Arrays\MaximalSumOfK\obj\Debug\MaximalSumOfK.pdb

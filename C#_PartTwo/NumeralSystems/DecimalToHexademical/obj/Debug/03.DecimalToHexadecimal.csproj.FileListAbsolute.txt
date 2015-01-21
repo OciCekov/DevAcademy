@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\DecimalToHexademical\bin\Debug\DecimalToHexademical.exe.config
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\DecimalToHexademical\obj\Debug\DecimalToHexademical.exe
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\DecimalToHexademical\obj\Debug\DecimalToHexademical.pdb
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\DecimalToHexademical\bin\Debug\DecimalToHexademical.exe
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\DecimalToHexademical\bin\Debug\DecimalToHexademical.pdb
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\DecimalToHexademical\obj\Debug\03.DecimalToHexadecimal.csprojResolveAssemblyReference.cache

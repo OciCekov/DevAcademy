@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Students Managing System</title>
+    <link rel="stylesheet" href="styles/styles.css"/>
+</head>
+<body>
+
+
+<label for="lname"></label>
+<input id="lname" type="text" placeholder="Name here"/>
+<br/>
+
+<label for="grade"></label>
+<input id="grade" type="number" placeholder="Grade here"/>
+<button id="add-btn">Add Student</button>
+
+
+
+<br/>
+<input id="student-id" type="number" placeholder="Enter student's id..."/>
+<button id="delete-btn">Delete</button>
+<div >
+    <strong id="success"></strong>
+    <strong id="error"></strong>
+</div>
+
+<table id="students">
+    <tr>
+        <th>ID:</th>
+        <th>Name:</th>
+        <th>Grade</th>
+    </tr>
+</table>
+<script src="scripts/libs/require.js" data-main="scripts/main"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task06_Excel\bin\Debug\Task06_Excel.exe.config
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task06_Excel\bin\Debug\Task06_Excel.exe
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task06_Excel\bin\Debug\Task06_Excel.pdb
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task06_Excel\obj\Debug\Task06_Excel.exe
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task06_Excel\obj\Debug\Task06_Excel.pdb

@@ -1,0 +1,3 @@
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\FormatString\bin\Debug\FormatString.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\FormatString\obj\Debug\FormatString.exe
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\FormatString\obj\Debug\FormatString.pdb

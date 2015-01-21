@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\RepeatingNumber\bin\Debug\RepeatingNumber.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\RepeatingNumber\bin\Debug\RepeatingNumber.exe
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\RepeatingNumber\bin\Debug\RepeatingNumber.pdb
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\RepeatingNumber\obj\Debug\RepeatingNumber.csprojResolveAssemblyReference.cache
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\RepeatingNumber\obj\Debug\RepeatingNumber.exe
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\RepeatingNumber\obj\Debug\RepeatingNumber.pdb

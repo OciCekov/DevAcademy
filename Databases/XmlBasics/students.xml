@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students
+  xmlns="urn:students"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:students students.xsd"
+  name="List Of Students">
+  <student>
+    <name>Pesho Todorov</name>
+    <sex>Alien</sex>
+    <birthdate>19/04/1989</birthdate>
+    <phone>0888612345</phone>
+    <email>pesho.todorov@telerik.com</email>
+    <course>JS Applications</course>
+    <speciality>IT</speciality>
+    <facultyNumber>123456</facultyNumber>
+    <takenExams>
+      <exam>
+        <name>JS Applications</name>
+        <tutor>Doncho Minkov</tutor>
+        <score>64</score>
+      </exam>
+      <exam>
+        <name>JS DOM and UI</name>
+        <tutor>Doncho Minkov</tutor>
+        <score>189</score>
+      </exam>
+    </takenExams>
+  </student>
+</students>

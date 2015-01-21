@@ -1,0 +1,6 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\OddOrEven\bin\Debug\OddOrEven.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\OddOrEven\bin\Debug\OddOrEven.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\OddOrEven\bin\Debug\OddOrEven.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\OddOrEven\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\OddOrEven\obj\Debug\OddOrEven.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\OddOrEven\obj\Debug\OddOrEven.pdb

@@ -1,0 +1,6 @@
+E:\Projects\C#Part2\Array\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.exe.config
+E:\Projects\C#Part2\Array\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.exe
+E:\Projects\C#Part2\Array\Arrays\SequenceOfGivenSum\bin\Debug\SequenceOfGivenSum.pdb
+E:\Projects\C#Part2\Array\Arrays\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.csprojResolveAssemblyReference.cache
+E:\Projects\C#Part2\Array\Arrays\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.exe
+E:\Projects\C#Part2\Array\Arrays\SequenceOfGivenSum\obj\Debug\SequenceOfGivenSum.pdb

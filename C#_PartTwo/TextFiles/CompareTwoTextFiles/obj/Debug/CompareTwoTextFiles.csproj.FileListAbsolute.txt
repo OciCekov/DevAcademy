@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\CompareTwoTextFiles\bin\Debug\CompareTwoTextFiles.exe.config
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\CompareTwoTextFiles\bin\Debug\CompareTwoTextFiles.exe
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\CompareTwoTextFiles\bin\Debug\CompareTwoTextFiles.pdb
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\CompareTwoTextFiles\obj\Debug\CompareTwoTextFiles.csprojResolveAssemblyReference.cache
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\CompareTwoTextFiles\obj\Debug\CompareTwoTextFiles.exe
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\CompareTwoTextFiles\obj\Debug\CompareTwoTextFiles.pdb

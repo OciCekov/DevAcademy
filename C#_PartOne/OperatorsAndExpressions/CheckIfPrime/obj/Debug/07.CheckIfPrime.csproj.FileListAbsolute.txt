@@ -1,0 +1,5 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\CheckIfPrime\bin\Debug\CheckIfPrime.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\CheckIfPrime\obj\Debug\CheckIfPrime.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\CheckIfPrime\obj\Debug\CheckIfPrime.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\CheckIfPrime\bin\Debug\CheckIfPrime.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\CheckIfPrime\bin\Debug\CheckIfPrime.pdb

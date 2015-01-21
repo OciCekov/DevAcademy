@@ -1,0 +1,20 @@
+﻿
+body {
+    color: #0094ff;
+    font-family: Consolas, Edwardian Script ITC;
+    font-size: 16px;
+    /*With this greyish it looks better, at least in my eyes*/
+    background-color: rgb(241, 238, 238); 
+}
+@font-face {
+	font-family: EdwardianScriptITC;
+	src: url('fonts/EdwardianScriptITC.ttf') format('truetype');
+}
+p:first-letter {
+    font-family: "EdwardianScriptITC";
+    font-size: 4em;
+    font-weight: normal;
+}
+p:first-line {
+    font-weight: bold;
+}

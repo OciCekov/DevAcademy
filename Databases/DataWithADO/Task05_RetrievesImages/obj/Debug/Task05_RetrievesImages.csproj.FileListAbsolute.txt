@@ -1,0 +1,6 @@
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task05_RetrievesImages\bin\Debug\Task05_RetrievesImages.exe.config
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task05_RetrievesImages\obj\Debug\Task05_RetrievesImages.csprojResolveAssemblyReference.cache
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task05_RetrievesImages\bin\Debug\Task05_RetrievesImages.exe
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task05_RetrievesImages\bin\Debug\Task05_RetrievesImages.pdb
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task05_RetrievesImages\obj\Debug\Task05_RetrievesImages.exe
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task05_RetrievesImages\obj\Debug\Task05_RetrievesImages.pdb

@@ -1,0 +1,6 @@
+G:\Users\oci\Desktop\Telerik Stuff\HomeWorks\Solution1\ANacci\bin\Debug\ANacci.exe.config
+G:\Users\oci\Desktop\Telerik Stuff\HomeWorks\Solution1\ANacci\bin\Debug\ANacci.exe
+G:\Users\oci\Desktop\Telerik Stuff\HomeWorks\Solution1\ANacci\bin\Debug\ANacci.pdb
+G:\Users\oci\Desktop\Telerik Stuff\HomeWorks\Solution1\ANacci\obj\Debug\ANacci.csprojResolveAssemblyReference.cache
+G:\Users\oci\Desktop\Telerik Stuff\HomeWorks\Solution1\ANacci\obj\Debug\ANacci.exe
+G:\Users\oci\Desktop\Telerik Stuff\HomeWorks\Solution1\ANacci\obj\Debug\ANacci.pdb

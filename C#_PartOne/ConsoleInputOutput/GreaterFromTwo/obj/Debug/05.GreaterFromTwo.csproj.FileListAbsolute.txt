@@ -1,0 +1,3 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\GreaterFromTwo\bin\Debug\GreaterFromTwo.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\GreaterFromTwo\obj\Debug\GreaterFromTwo.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\GreaterFromTwo\obj\Debug\GreaterFromTwo.pdb

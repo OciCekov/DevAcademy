@@ -1,0 +1,12 @@
+E:\AdatabaseS\EntityFrameworkHomework\EntityFramework.Client\bin\Debug\EntityFramework.Client.exe.config
+E:\AdatabaseS\EntityFrameworkHomework\EntityFramework.Client\bin\Debug\EntityFramework.Client.exe
+E:\AdatabaseS\EntityFrameworkHomework\EntityFramework.Client\bin\Debug\EntityFramework.Client.pdb
+E:\AdatabaseS\EntityFrameworkHomework\EntityFramework.Client\bin\Debug\EntityDatabaseModel.dll
+E:\AdatabaseS\EntityFrameworkHomework\EntityFramework.Client\bin\Debug\EntityFramework.dll
+E:\AdatabaseS\EntityFrameworkHomework\EntityFramework.Client\bin\Debug\EntityFramework.SqlServer.dll
+E:\AdatabaseS\EntityFrameworkHomework\EntityFramework.Client\bin\Debug\EntityDatabaseModel.pdb
+E:\AdatabaseS\EntityFrameworkHomework\EntityFramework.Client\bin\Debug\EntityFramework.xml
+E:\AdatabaseS\EntityFrameworkHomework\EntityFramework.Client\bin\Debug\EntityFramework.SqlServer.xml
+E:\AdatabaseS\EntityFrameworkHomework\EntityFramework.Client\obj\Debug\EntityFramework.Client.csprojResolveAssemblyReference.cache
+E:\AdatabaseS\EntityFrameworkHomework\EntityFramework.Client\obj\Debug\EntityFramework.Client.exe
+E:\AdatabaseS\EntityFrameworkHomework\EntityFramework.Client\obj\Debug\EntityFramework.Client.pdb

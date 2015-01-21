@@ -1,0 +1,5 @@
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ConvertToUnicode\bin\Debug\ConvertToUnicode.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ConvertToUnicode\bin\Debug\ConvertToUnicode.exe
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ConvertToUnicode\bin\Debug\ConvertToUnicode.pdb
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ConvertToUnicode\obj\Debug\ConvertToUnicode.exe
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ConvertToUnicode\obj\Debug\ConvertToUnicode.pdb

@@ -1,0 +1,30 @@
+﻿#task {
+    width: 200px;
+    height: 20px;
+    border:1px solid lightslategray;
+    border-radius:15px;
+    background-color: yellowgreen;
+    padding: 5px;
+    outline: none;
+}
+#to-do-list {
+    width: 200px;
+    height: 100px;
+    resize: none;
+    border-radius: 15px;
+    border:1px solid lightslategray;
+    background:yellowgreen;
+    display:block;
+    overflow:auto;
+}
+
+input{
+    margin:5px;
+    border:1px solid lightslategray;
+    background:yellowgreen;
+}
+
+
+label{
+    font-size:20px;
+}

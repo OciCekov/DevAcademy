@@ -1,0 +1,6 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\BitCheck\bin\Debug\BitCheck.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\BitCheck\bin\Debug\BitCheck.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\BitCheck\bin\Debug\BitCheck.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\BitCheck\obj\Debug\BitCheck.csprojResolveAssemblyReference.cache
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\BitCheck\obj\Debug\BitCheck.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\BitCheck\obj\Debug\BitCheck.pdb

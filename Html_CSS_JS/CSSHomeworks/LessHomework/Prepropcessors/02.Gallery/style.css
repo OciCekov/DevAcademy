@@ -1,0 +1,14 @@
+﻿body label img {
+  width: 128px;
+  height: 96px;
+  cursor: pointer;
+}
+body label + img {
+  display: none;
+}
+label:hover + img {
+  display: block;
+  position: absolute;
+  width: 640px;
+}
+/*# sourceMappingURL=style.css.map */

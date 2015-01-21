@@ -1,0 +1,5 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\FindThirdBit\bin\Debug\FindThirdBit.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\FindThirdBit\bin\Debug\FindThirdBit.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\FindThirdBit\bin\Debug\FindThirdBit.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\FindThirdBit\obj\Debug\FindThirdBit.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\FindThirdBit\obj\Debug\FindThirdBit.pdb

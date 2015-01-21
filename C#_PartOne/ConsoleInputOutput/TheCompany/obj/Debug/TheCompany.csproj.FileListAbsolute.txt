@@ -1,0 +1,6 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\TheCompany\bin\Debug\TheCompany.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\TheCompany\bin\Debug\TheCompany.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\TheCompany\bin\Debug\TheCompany.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\TheCompany\obj\Debug\TheCompany.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\TheCompany\obj\Debug\TheCompany.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\TheCompany\obj\Debug\TheCompany.csprojResolveAssemblyReference.cache

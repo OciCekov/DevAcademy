@@ -1,0 +1,5 @@
+E:\AdatabaseS\XmlInNet\ReadFromFile\bin\Debug\ReadFromFile.exe.config
+E:\AdatabaseS\XmlInNet\ReadFromFile\bin\Debug\ReadFromFile.exe
+E:\AdatabaseS\XmlInNet\ReadFromFile\bin\Debug\ReadFromFile.pdb
+E:\AdatabaseS\XmlInNet\ReadFromFile\obj\Debug\ReadFromFile.exe
+E:\AdatabaseS\XmlInNet\ReadFromFile\obj\Debug\ReadFromFile.pdb

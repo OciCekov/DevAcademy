@@ -1,0 +1,5 @@
+E:\AdatabaseS\XmlInNet\2-6.ReadingXml\bin\Debug\2-6.ReadingXml.exe.config
+E:\AdatabaseS\XmlInNet\2-6.ReadingXml\bin\Debug\2-6.ReadingXml.exe
+E:\AdatabaseS\XmlInNet\2-6.ReadingXml\bin\Debug\2-6.ReadingXml.pdb
+E:\AdatabaseS\XmlInNet\2-6.ReadingXml\obj\Debug\2-6.ReadingXml.exe
+E:\AdatabaseS\XmlInNet\2-6.ReadingXml\obj\Debug\2-6.ReadingXml.pdb

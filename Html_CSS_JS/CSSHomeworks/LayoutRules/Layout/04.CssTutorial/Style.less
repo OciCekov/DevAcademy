@@ -1,0 +1,203 @@
+﻿body, header, nav, aside, article, ul, li, img, p, a, h1, span {
+    margin: 0;
+    padding: 0;
+    font: 12px/1.2 Verdana, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.clearfix() {
+    zoom: 1;
+
+    &:after {
+        display: block;
+        height: 0;
+        content: "";
+    }
+}
+
+
+body {
+    background-color: #f1f1f1;
+    border: 1px solid black;
+    height: 650px;
+    width: 960px;
+    margin: 10px;
+
+    button {
+        position:relative;
+        background-color: #ffffff;
+        border: 1px solid #000000;
+        width: 15%;
+        text-align: center;
+        .left{
+            position:absolute;
+            left:0;
+        }
+        .right{
+            position:absolute;
+            right:0;
+        }
+    }
+
+    nav {
+        float: left;
+        width: 150px;
+        margin: 2px;
+
+        h1 > a {
+            display: inline-block;
+            margin-top: 10px;
+            text-decoration: none;
+            color: black;
+            font-weight:bold;
+            font-size: 1.2em;
+
+            & > img {
+                vertical-align: text-bottom;
+            }
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+
+        li {
+            a {
+                text-decoration: none;
+                color: black;
+
+                &:hover {
+                    color: green;
+                    text-decoration: underline;
+                }
+            }
+
+            &:first-child {
+                margin-top: 10px;
+
+                a {
+                    text-decoration: none;
+                    font-weight: bold;
+                    color: red;
+
+                    &:hover {
+                        color: green;
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
+    }
+
+    section {
+        background-color: white;
+        float: left;
+        margin: 2px;
+        padding: 5px;
+        width: 65%;
+        display: inline-block;
+
+        h1 {
+            font-weight: bold;
+            font-size: 1.5em;
+            padding-top: 10px;
+            padding-bottom: 15px;
+        }
+
+        article:first-of-type {
+
+            p{
+                font-weight:bold;
+            }
+            
+        }
+
+        article {
+            margin-top: 5px;
+            margin-bottom: 5px;
+
+            a {
+                display: inline-block;
+                color: red;
+                padding-top: 15px;
+                font-weight:normal;
+
+                &:hover {
+                    color: green;
+                }
+            }
+        }
+
+        img {
+            float: left;
+            .clearfix;
+        }
+
+        p {
+            text-align: left;
+        }
+
+        h2 {
+            display: inline-block;
+            width: 100%;
+            text-align: left;
+            color: white;
+            background-color: #808080;
+            margin-top: 0;
+            margin-bottom: 5px;
+        }
+    }
+
+    aside {
+        float: left;
+        display: inline-block;
+        margin: 2px;
+
+        & > ul {
+            margin-bottom: 1px;
+            border: 1px solid gray;
+            background-color: white;
+            text-align: center;
+            width: 150px;
+
+            li {
+                padding-bottom: 2px;
+
+                a {
+                    color: red;
+
+                    &:hover {
+                        color: green;
+                    }
+                }
+
+                [type=text] {
+                    width: 100px;
+                }
+            }
+
+            h2 {
+                margin-bottom: 0;
+                display: inline-block;
+                width: 100%;
+                position: relative;
+                top: -15px;
+                color: white;
+                background-color: #808080;
+            }
+        }
+
+        .last {
+            border: none;
+
+            & > li {
+                margin: 1px;
+                border: 1px solid #808080;
+                width: 100%;
+            }
+        }
+    }
+}

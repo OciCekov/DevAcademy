@@ -1,0 +1,5 @@
+E:\Telerik StuffC#2\MyHomeworks\Experiments\UsingClassesAndObjects\SumFromString\bin\Debug\SumFromString.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Experiments\UsingClassesAndObjects\SumFromString\obj\Debug\SumFromString.exe
+E:\Telerik StuffC#2\MyHomeworks\Experiments\UsingClassesAndObjects\SumFromString\obj\Debug\SumFromString.pdb
+E:\Telerik StuffC#2\MyHomeworks\Experiments\UsingClassesAndObjects\SumFromString\bin\Debug\SumFromString.exe
+E:\Telerik StuffC#2\MyHomeworks\Experiments\UsingClassesAndObjects\SumFromString\bin\Debug\SumFromString.pdb

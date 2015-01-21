@@ -1,0 +1,8 @@
+E:\AdatabaseS\ParsingJson\ParseJsonInDotNet\bin\Debug\ParseJsonInDotNet.exe.config
+E:\AdatabaseS\ParsingJson\ParseJsonInDotNet\bin\Debug\ParseJsonInDotNet.exe
+E:\AdatabaseS\ParsingJson\ParseJsonInDotNet\bin\Debug\ParseJsonInDotNet.pdb
+E:\AdatabaseS\ParsingJson\ParseJsonInDotNet\obj\Debug\ParseJsonInDotNet.csprojResolveAssemblyReference.cache
+E:\AdatabaseS\ParsingJson\ParseJsonInDotNet\obj\Debug\ParseJsonInDotNet.exe
+E:\AdatabaseS\ParsingJson\ParseJsonInDotNet\obj\Debug\ParseJsonInDotNet.pdb
+E:\AdatabaseS\ParsingJson\ParseJsonInDotNet\bin\Debug\Newtonsoft.Json.dll
+E:\AdatabaseS\ParsingJson\ParseJsonInDotNet\bin\Debug\Newtonsoft.Json.xml

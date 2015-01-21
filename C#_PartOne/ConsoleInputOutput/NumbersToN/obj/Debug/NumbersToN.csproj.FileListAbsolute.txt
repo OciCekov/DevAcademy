@@ -1,0 +1,5 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\NumbersToN\bin\Debug\NumbersToN.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\NumbersToN\bin\Debug\NumbersToN.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\NumbersToN\bin\Debug\NumbersToN.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\NumbersToN\obj\Debug\NumbersToN.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\NumbersToN\obj\Debug\NumbersToN.pdb

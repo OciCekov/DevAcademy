@@ -1,0 +1,32 @@
+body {
+    background-color: lightgray;
+}
+
+#list {
+    width: 100px;
+    margin-bottom: 2px;
+    margin-left: 15px;
+    text-align: left;
+    list-style-type: none;
+    background-color: #bafbcc;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#list>li>a{
+    color: black;
+    text-decoration: none;
+}
+
+#list>li>a:hover{
+    color: red;
+}
+
+#result{
+    padding: 2px;
+    margin-left: 15px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #d7ffb0;
+    display: inline-block;
+}

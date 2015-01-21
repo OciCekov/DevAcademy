@@ -1,0 +1,5 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\MaximalAndMinimal\bin\Debug\MaximalAndMinimal.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\MaximalAndMinimal\obj\Debug\MaximalAndMinimal.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\MaximalAndMinimal\obj\Debug\MaximalAndMinimal.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\MaximalAndMinimal\bin\Debug\MaximalAndMinimal.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\MaximalAndMinimal\bin\Debug\MaximalAndMinimal.pdb

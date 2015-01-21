@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\BinaryToHexadeciaml\bin\Debug\BinaryToHexadeciaml.exe.config
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\BinaryToHexadeciaml\bin\Debug\BinaryToHexadeciaml.exe
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\BinaryToHexadeciaml\bin\Debug\BinaryToHexadeciaml.pdb
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\BinaryToHexadeciaml\obj\Debug\BinaryToHexadeciaml.csprojResolveAssemblyReference.cache
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\BinaryToHexadeciaml\obj\Debug\BinaryToHexadeciaml.exe
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\BinaryToHexadeciaml\obj\Debug\BinaryToHexadeciaml.pdb

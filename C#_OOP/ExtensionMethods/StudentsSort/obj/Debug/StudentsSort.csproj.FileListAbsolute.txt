@@ -1,0 +1,6 @@
+E:\OOP\MyHomeworks\ExtensionMethods\ExtensionLambdaLINQ\StudentsSort\obj\Debug\StudentsSort.csprojResolveAssemblyReference.cache
+E:\OOP\MyHomeworks\ExtensionMethods\ExtensionLambdaLINQ\StudentsSort\bin\Debug\StudentsSort.exe.config
+E:\OOP\MyHomeworks\ExtensionMethods\ExtensionLambdaLINQ\StudentsSort\bin\Debug\StudentsSort.exe
+E:\OOP\MyHomeworks\ExtensionMethods\ExtensionLambdaLINQ\StudentsSort\bin\Debug\StudentsSort.pdb
+E:\OOP\MyHomeworks\ExtensionMethods\ExtensionLambdaLINQ\StudentsSort\obj\Debug\StudentsSort.exe
+E:\OOP\MyHomeworks\ExtensionMethods\ExtensionLambdaLINQ\StudentsSort\obj\Debug\StudentsSort.pdb

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="Catalog of Albums">
+  <album>
+    <name>RUN-DMC</name>
+    <artist>RUN-DMC</artist>
+    <year>1984</year>
+    <producer>Russell Simmons</producer>
+    <price currency="USD">20</price>
+    <songs>
+      <song>
+        <title>Hard Times</title>
+        <duration>3:52</duration>
+      </song>
+      <song>
+        <title>It's Like That</title>
+        <duration>4:50</duration>
+      </song>
+      <song>
+        <title>Here We Go</title>
+        <duration>4:06</duration>
+      </song>
+      <song>
+        <title>Sucker M.C.'s</title>
+        <duration>3:25</duration>
+      </song>
+      <song>
+        <title>Wake Up</title>
+        <duration>5:31</duration>
+      </song>
+      <song>
+        <title>RUN-DMC</title>
+      </song>
+    </songs>
+  </album>
+</catalog>

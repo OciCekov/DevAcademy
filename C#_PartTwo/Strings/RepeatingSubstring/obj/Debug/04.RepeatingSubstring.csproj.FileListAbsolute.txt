@@ -1,0 +1,3 @@
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\RepeatingSubstring\bin\Debug\RepeatingSubstring.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\RepeatingSubstring\obj\Debug\RepeatingSubstring.exe
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\RepeatingSubstring\obj\Debug\RepeatingSubstring.pdb

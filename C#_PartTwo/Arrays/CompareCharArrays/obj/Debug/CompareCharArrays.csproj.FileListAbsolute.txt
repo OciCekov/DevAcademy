@@ -1,0 +1,1 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config

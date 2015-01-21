@@ -1,0 +1,6 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\EqualElementsSequence\bin\Debug\EqualElementsSequence.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\EqualElementsSequence\obj\Debug\EqualElementsSequence.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\EqualElementsSequence\obj\Debug\EqualElementsSequence.pdb
+E:\Projects\C#Part2\Array\Arrays\EqualElementsSequence\bin\Debug\EqualElementsSequence.exe.config
+E:\Projects\C#Part2\Array\Arrays\EqualElementsSequence\obj\Debug\EqualElementsSequence.exe
+E:\Projects\C#Part2\Array\Arrays\EqualElementsSequence\obj\Debug\EqualElementsSequence.pdb

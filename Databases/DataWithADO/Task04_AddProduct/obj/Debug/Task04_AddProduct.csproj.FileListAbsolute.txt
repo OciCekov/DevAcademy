@@ -1,0 +1,8 @@
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task04_AddProduct\bin\Debug\Task04_AddProduct.exe.config
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task04_AddProduct\bin\Debug\Task04_AddProduct.exe
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task04_AddProduct\bin\Debug\Task04_AddProduct.pdb
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task04_AddProduct\obj\Debug\Task04_AddProduct.exe
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task04_AddProduct\obj\Debug\Task04_AddProduct.pdb
+C:\Users\Oci's\Desktop\T7_ADO.NET\T7_ADO.NET\Task04_AddProduct\bin\Debug\Task04_AddProduct.exe.config
+C:\Users\Oci's\Desktop\T7_ADO.NET\T7_ADO.NET\Task04_AddProduct\obj\Debug\Task04_AddProduct.exe
+C:\Users\Oci's\Desktop\T7_ADO.NET\T7_ADO.NET\Task04_AddProduct\obj\Debug\Task04_AddProduct.pdb

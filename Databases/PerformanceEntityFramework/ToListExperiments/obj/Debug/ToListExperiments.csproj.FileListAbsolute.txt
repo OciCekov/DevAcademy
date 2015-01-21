@@ -1,0 +1,12 @@
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\ToListExperiments\bin\Debug\ToListExperiments.exe.config
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\ToListExperiments\bin\Debug\ToListExperiments.exe
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\ToListExperiments\bin\Debug\ToListExperiments.pdb
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\ToListExperiments\bin\Debug\EntityFramework.dll
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\ToListExperiments\bin\Debug\EntityFramework.SqlServer.dll
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\ToListExperiments\bin\Debug\TelerikAcademyDB.exe
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\ToListExperiments\bin\Debug\TelerikAcademyDB.pdb
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\ToListExperiments\bin\Debug\EntityFramework.xml
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\ToListExperiments\bin\Debug\EntityFramework.SqlServer.xml
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\ToListExperiments\obj\Debug\ToListExperiments.csprojResolveAssemblyReference.cache
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\ToListExperiments\obj\Debug\ToListExperiments.exe
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\ToListExperiments\obj\Debug\ToListExperiments.pdb

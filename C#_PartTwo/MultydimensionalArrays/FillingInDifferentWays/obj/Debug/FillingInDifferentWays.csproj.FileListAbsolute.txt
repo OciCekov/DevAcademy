@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\MultidimensionalArrays\MultiDimensionalArrays\FillingInDifferentWays\bin\Debug\FillingInDifferentWays.exe.config
+E:\Telerik StuffC#2\MyHomeworks\MultidimensionalArrays\MultiDimensionalArrays\FillingInDifferentWays\bin\Debug\FillingInDifferentWays.exe
+E:\Telerik StuffC#2\MyHomeworks\MultidimensionalArrays\MultiDimensionalArrays\FillingInDifferentWays\bin\Debug\FillingInDifferentWays.pdb
+E:\Telerik StuffC#2\MyHomeworks\MultidimensionalArrays\MultiDimensionalArrays\FillingInDifferentWays\obj\Debug\FillingInDifferentWays.csprojResolveAssemblyReference.cache
+E:\Telerik StuffC#2\MyHomeworks\MultidimensionalArrays\MultiDimensionalArrays\FillingInDifferentWays\obj\Debug\FillingInDifferentWays.exe
+E:\Telerik StuffC#2\MyHomeworks\MultidimensionalArrays\MultiDimensionalArrays\FillingInDifferentWays\obj\Debug\FillingInDifferentWays.pdb

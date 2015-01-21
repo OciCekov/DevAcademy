@@ -1,0 +1,29 @@
+﻿body,nav,ul,li,a {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style-type: none;
+}
+#main-nav {
+  position: absolute;
+  margin-left: 20px;
+}
+#main-nav li > a {
+  text-decoration: none;
+  color: black;
+  display: block;
+}
+#main-nav li > a:hover {
+  text-decoration: underline;
+}
+#main-nav li ul > li {
+  display: none;
+}
+#main-nav li:hover ul > li {
+  position: relative;
+  left: 10px;
+  display: block;
+  color: gray;
+}
+/*# sourceMappingURL=Style.css.map */

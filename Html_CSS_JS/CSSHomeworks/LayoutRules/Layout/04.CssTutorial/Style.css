@@ -1,0 +1,173 @@
+﻿body,
+header,
+nav,
+aside,
+article,
+ul,
+li,
+img,
+p,
+a,
+h1,
+span {
+  margin: 0;
+  padding: 0;
+  font: 12px/1.2 Verdana, sans-serif;
+}
+ul {
+  list-style-type: none;
+}
+body {
+  background-color: #f1f1f1;
+  border: 1px solid black;
+  height: 650px;
+  width: 960px;
+  margin: 10px;
+}
+body button {
+  position: relative;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  width: 15%;
+  text-align: center;
+}
+body button .left {
+  position: absolute;
+  left: 0;
+}
+body button .right {
+  position: absolute;
+  right: 0;
+}
+body nav {
+  float: left;
+  width: 150px;
+  margin: 2px;
+}
+body nav h1 > a {
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+body nav h1 > a > img {
+  vertical-align: text-bottom;
+}
+body nav h1 > a:hover {
+  text-decoration: underline;
+}
+body nav li a {
+  text-decoration: none;
+  color: black;
+}
+body nav li a:hover {
+  color: green;
+  text-decoration: underline;
+}
+body nav li:first-child {
+  margin-top: 10px;
+}
+body nav li:first-child a {
+  text-decoration: none;
+  font-weight: bold;
+  color: red;
+}
+body nav li:first-child a:hover {
+  color: green;
+  text-decoration: underline;
+}
+body section {
+  background-color: white;
+  float: left;
+  margin: 2px;
+  padding: 5px;
+  width: 65%;
+  display: inline-block;
+}
+body section h1 {
+  font-weight: bold;
+  font-size: 1.5em;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+body section article:first-of-type p {
+  font-weight: bold;
+}
+body section article {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+body section article a {
+  display: inline-block;
+  color: red;
+  padding-top: 15px;
+  font-weight: normal;
+}
+body section article a:hover {
+  color: green;
+}
+body section img {
+  float: left;
+  zoom: 1;
+}
+body section img:after {
+  display: block;
+  height: 0;
+  content: "";
+}
+body section p {
+  text-align: left;
+}
+body section h2 {
+  display: inline-block;
+  width: 100%;
+  text-align: left;
+  color: white;
+  background-color: #808080;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+body aside {
+  float: left;
+  display: inline-block;
+  margin: 2px;
+}
+body aside > ul {
+  margin-bottom: 1px;
+  border: 1px solid gray;
+  background-color: white;
+  text-align: center;
+  width: 150px;
+}
+body aside > ul li {
+  padding-bottom: 2px;
+}
+body aside > ul li a {
+  color: red;
+}
+body aside > ul li a:hover {
+  color: green;
+}
+body aside > ul li [type=text] {
+  width: 100px;
+}
+body aside > ul h2 {
+  margin-bottom: 0;
+  display: inline-block;
+  width: 100%;
+  position: relative;
+  top: -15px;
+  color: white;
+  background-color: #808080;
+}
+body aside .last {
+  border: none;
+}
+body aside .last > li {
+  margin: 1px;
+  border: 1px solid #808080;
+  width: 100%;
+}
+/*# sourceMappingURL=Style.css.map */

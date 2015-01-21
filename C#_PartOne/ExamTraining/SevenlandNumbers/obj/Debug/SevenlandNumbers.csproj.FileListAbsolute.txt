@@ -1,0 +1,6 @@
+G:\Users\oci\Desktop\Telerik Stuff\HomeWorks\Solution1\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe.config
+G:\Users\oci\Desktop\Telerik Stuff\HomeWorks\Solution1\SevenlandNumbers\bin\Debug\SevenlandNumbers.exe
+G:\Users\oci\Desktop\Telerik Stuff\HomeWorks\Solution1\SevenlandNumbers\bin\Debug\SevenlandNumbers.pdb
+G:\Users\oci\Desktop\Telerik Stuff\HomeWorks\Solution1\SevenlandNumbers\obj\Debug\SevenlandNumbers.csprojResolveAssemblyReference.cache
+G:\Users\oci\Desktop\Telerik Stuff\HomeWorks\Solution1\SevenlandNumbers\obj\Debug\SevenlandNumbers.exe
+G:\Users\oci\Desktop\Telerik Stuff\HomeWorks\Solution1\SevenlandNumbers\obj\Debug\SevenlandNumbers.pdb

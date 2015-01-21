@@ -1,0 +1,6 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\ChooseVariable\bin\Debug\ChooseVariable.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\ChooseVariable\bin\Debug\ChooseVariable.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\ChooseVariable\bin\Debug\ChooseVariable.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\ChooseVariable\obj\Debug\ChooseVariable.csprojResolveAssemblyReference.cache
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\ChooseVariable\obj\Debug\ChooseVariable.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\ChooseVariable\obj\Debug\ChooseVariable.pdb

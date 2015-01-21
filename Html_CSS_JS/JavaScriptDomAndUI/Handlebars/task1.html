@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ze Table</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="input">
+</div>
+<script id="input-template" type="text/x-handlebars-template">
+    <table>
+        <tr>
+            <th>Num.</th>
+            <th>Course Title</th>
+            <th>Date 1</th>
+            <th>Date 2</th>
+        </tr>
+        {{#input}}
+        <tr>
+            <td>{{@index}}</td>
+            <td>{{title}}</td>
+            {{#each dates}}
+            <td>{{this}}</td>
+            {{/each}}
+        </tr>
+        {{/input}}
+    </table>
+</script>
+<script src="handlebars.js"></script>
+<script src="scripts.js"></script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+﻿body {
+    label {
+        img {
+            width: 128px;
+            height: 96px;
+            cursor: pointer;
+        }
+      
+            +img {
+                display: none;
+            }
+        }
+    }
+    label:hover {
+       
+            +img {
+                display: block;
+                position: absolute;
+                width: 640px;
+            }
+       
+    }

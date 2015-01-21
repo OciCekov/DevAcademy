@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\FromAnySystemToAnySystem\bin\Debug\FromAnySystemToAnySystem.exe.config
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\FromAnySystemToAnySystem\bin\Debug\FromAnySystemToAnySystem.exe
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\FromAnySystemToAnySystem\bin\Debug\FromAnySystemToAnySystem.pdb
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\FromAnySystemToAnySystem\obj\Debug\FromAnySystemToAnySystem.csprojResolveAssemblyReference.cache
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\FromAnySystemToAnySystem\obj\Debug\FromAnySystemToAnySystem.exe
+E:\Telerik StuffC#2\MyHomeworks\NumeralSystems\NumeralSystems\FromAnySystemToAnySystem\obj\Debug\FromAnySystemToAnySystem.pdb

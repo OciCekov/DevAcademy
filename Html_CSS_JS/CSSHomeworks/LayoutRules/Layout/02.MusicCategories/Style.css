@@ -1,0 +1,61 @@
+﻿body,
+div,
+p,
+button,
+img,
+h1 {
+  margin: 0;
+  padding: 0;
+}
+#wrapper {
+  background-color: #eeeeee;
+  border-radius: 10px;
+  width: 420px;
+  margin-left: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 35px;
+}
+#wrapper h1 {
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 15px;
+  text-align: left;
+  font-size: 1.1em;
+  font-weight: normal;
+  color: black;
+}
+#wrapper .content {
+  border: 1px solid #a1a1a1;
+  background-color: white;
+  margin-top: 30px;
+  position: relative;
+  height: 130px;
+}
+#wrapper .content img {
+  display: inline-block;
+  margin: 20px;
+}
+#wrapper .content button {
+  position: relative;
+  top: -30px;
+  right: 15px;
+  width: 70px;
+  height: 20px;
+  border: none;
+  display: inline-block;
+  background: url('imgs/listen.png');
+  float: right;
+  color: white;
+}
+#wrapper .content .button-add {
+  margin-left: 3px;
+}
+#wrapper .content p {
+  display: inline-block;
+  position: absolute;
+  top: 20px;
+  right: 35px;
+  width: 200px;
+}
+/*# sourceMappingURL=Style.css.map */

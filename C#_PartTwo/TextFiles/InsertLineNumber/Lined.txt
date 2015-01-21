@@ -1,0 +1,11 @@
+line1: An Irishman drinks at the pub until they close.
+line2: 
+line3: He stands up to leave and falls flat on his face. He tries to stand one more time and falls again. He figures he'll crawl outside and get some fresh air and maybe that will sober him up.
+line4: 
+line5: Outside, he tries to stand up and falls flat again. He gives up and crawls the four blocks to his house, crawls up the stairs and pulls himself into bed.
+line6: 
+line7: The next morning, his wife stands over him shouting, "So, you've been out boozing again!"
+line8: 
+line9: "What makes you say that?" he asks, putting on an innocent face.
+line10: 
+line11: "The pub called -- you left your wheelchair there again."

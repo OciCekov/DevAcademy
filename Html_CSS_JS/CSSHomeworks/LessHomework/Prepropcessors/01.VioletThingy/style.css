@@ -1,0 +1,206 @@
+﻿.clearfix {
+  clear: both;
+  display: block;
+  content: "\00A0";
+}
+.reset {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body {
+  clear: both;
+  display: block;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: #9933ff;
+  font-family: 'Times New Roman' sans-serif;
+  color: white;
+}
+body header {
+  clear: both;
+  display: block;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body header div#header-container {
+  background-image: -webkit-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: -moz-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: -ms-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: -o-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: linear-gradient(to bottom, #cc99ff, #9933ff);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{@from}', endColorstr='#{@to}', GradientType=0);
+  background-repeat: none;
+  padding: 10px;
+}
+body header div#reg-form-container {
+  display: inline-block;
+  position: absolute;
+  right: 80px;
+  top: 10px;
+}
+body header div#reg-form-container #tb-username,
+body header div#reg-form-container #tb-password {
+  border: 1px solid #000000;
+  border-radius: 10px;
+  background-color: #b870ff;
+  width: 150px;
+  margin: 3px;
+  padding: 2px;
+}
+body header div#reg-form-container #tb-password {
+  margin-left: 4px;
+  padding-right: 3px;
+}
+body header #btn-register {
+  background-image: -webkit-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: -moz-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: -ms-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: -o-linear-gradient(top, #cc99ff, #9933ff);
+  background-image: linear-gradient(to bottom, #cc99ff, #9933ff);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{@from}', endColorstr='#{@to}', GradientType=0);
+  background-repeat: none;
+  display: block;
+  position: absolute;
+  color: white;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 5px 20px;
+  text-align: center;
+  margin-top: 7px;
+  right: 150px;
+  width: 100px;
+}
+body header #btn-register:hover {
+  background-color: #cc99ff;
+  text-decoration: underline;
+}
+body header nav {
+  clear: both;
+  display: block;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 900px;
+  margin-left: 20px;
+}
+body header nav ul {
+  clear: both;
+  display: block;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body header nav ul li {
+  list-style-type: none;
+  display: inline-block;
+}
+body header nav ul li a {
+  text-decoration: none;
+  color: #FFFFFF;
+  padding: 0 10px 0 10px;
+}
+body header nav ul li:hover > a {
+  text-decoration: underline;
+}
+body header nav ul li:hover > ul {
+  display: block;
+}
+body header nav ul li ul {
+  display: none;
+  position: absolute;
+  background: #ca8df7;
+  opacity: 0.9;
+  border-radius: 10px;
+}
+body header nav ul li ul li {
+  display: block;
+  margin: 0 10px;
+  padding: 10px 0;
+  border-bottom: 1px solid #000000;
+}
+body header nav ul li ul li:hover > a {
+  color: #9933ff;
+}
+body header nav ul li ul li:last-of-type {
+  border-bottom: none;
+}
+body section {
+  clear: both;
+  display: block;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body section article {
+  border: 1px solid #000000;
+  border-radius: 10px;
+  background-color: #9933ff;
+  margin: 20px 10px;
+  padding: 20px;
+  width: 820px;
+}
+body section article footer {
+  text-align: right;
+}
+body aside {
+  clear: both;
+  display: block;
+  content: "\00A0";
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+body aside ul {
+  list-style-type: none;
+  display: block;
+  position: absolute;
+  right: 150px;
+  top: 200px;
+}
+body aside ul li {
+  border: 1px solid #000000;
+  border-radius: 5px;
+  padding: 5px;
+  height: 200px;
+  width: 260px;
+  margin: 10px;
+}
+body aside ul li ul {
+  margin: 7px;
+}
+body aside ul li ul li {
+  display: block;
+  position: relative;
+  width: auto;
+  height: 20px;
+  top: 80px;
+  padding: 2px;
+  margin: 2px;
+  border: none;
+}
+body aside ul li em {
+  color: #cc99ff;
+}
+body footer {
+  text-align: center;
+  font-weight: 700;
+}
+body a {
+  text-decoration: none;
+  color: #cc99ff;
+}
+/*# sourceMappingURL=style.css.map */

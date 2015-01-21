@@ -1,0 +1,3 @@
+E:\Telerik StuffC#2\MyHomeworks\Experiments\UsingClassesAndObjects\NumberOfWorkdays\bin\Debug\NumberOfWorkdays.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Experiments\UsingClassesAndObjects\NumberOfWorkdays\obj\Debug\NumberOfWorkdays.exe
+E:\Telerik StuffC#2\MyHomeworks\Experiments\UsingClassesAndObjects\NumberOfWorkdays\obj\Debug\NumberOfWorkdays.pdb

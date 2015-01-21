@@ -1,0 +1,6 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\MultiplyIndex\bin\Debug\MultiplyIndex.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\MultiplyIndex\bin\Debug\MultiplyIndex.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\MultiplyIndex\bin\Debug\MultiplyIndex.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\MultiplyIndex\obj\Debug\MultiplyIndex.csprojResolveAssemblyReference.cache
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\MultiplyIndex\obj\Debug\MultiplyIndex.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\MultiplyIndex\obj\Debug\MultiplyIndex.pdb

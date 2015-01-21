@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\AskUserName\bin\Debug\AskUserName.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\AskUserName\bin\Debug\AskUserName.exe
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\AskUserName\bin\Debug\AskUserName.pdb
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\AskUserName\obj\Debug\AskUserName.csprojResolveAssemblyReference.cache
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\AskUserName\obj\Debug\AskUserName.exe
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\AskUserName\obj\Debug\AskUserName.pdb

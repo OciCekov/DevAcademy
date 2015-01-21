@@ -1,0 +1,5 @@
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task03_AgainAboutNorthwind\bin\Debug\Task03_AgainAboutNorthwind.exe.config
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task03_AgainAboutNorthwind\bin\Debug\Task03_AgainAboutNorthwind.exe
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task03_AgainAboutNorthwind\bin\Debug\Task03_AgainAboutNorthwind.pdb
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task03_AgainAboutNorthwind\obj\Debug\Task03_AgainAboutNorthwind.exe
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task03_AgainAboutNorthwind\obj\Debug\Task03_AgainAboutNorthwind.pdb

@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\InsertLineNumber\bin\Debug\InsertLineNumber.exe.config
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\InsertLineNumber\bin\Debug\InsertLineNumber.exe
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\InsertLineNumber\bin\Debug\InsertLineNumber.pdb
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\InsertLineNumber\obj\Debug\InsertLineNumber.csprojResolveAssemblyReference.cache
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\InsertLineNumber\obj\Debug\InsertLineNumber.exe
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\InsertLineNumber\obj\Debug\InsertLineNumber.pdb

@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\Experiments\UsingClassesAndObjects\FirstThreeExcercises\bin\Debug\FirstThreeExcercises.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Experiments\UsingClassesAndObjects\FirstThreeExcercises\obj\Debug\FirstThreeExcercises.csprojResolveAssemblyReference.cache
+E:\Telerik StuffC#2\MyHomeworks\Experiments\UsingClassesAndObjects\FirstThreeExcercises\bin\Debug\FirstThreeExcercises.exe
+E:\Telerik StuffC#2\MyHomeworks\Experiments\UsingClassesAndObjects\FirstThreeExcercises\bin\Debug\FirstThreeExcercises.pdb
+E:\Telerik StuffC#2\MyHomeworks\Experiments\UsingClassesAndObjects\FirstThreeExcercises\obj\Debug\FirstThreeExcercises.exe
+E:\Telerik StuffC#2\MyHomeworks\Experiments\UsingClassesAndObjects\FirstThreeExcercises\obj\Debug\FirstThreeExcercises.pdb

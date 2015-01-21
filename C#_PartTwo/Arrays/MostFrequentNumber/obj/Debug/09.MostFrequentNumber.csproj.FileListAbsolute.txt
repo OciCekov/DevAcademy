@@ -1,0 +1,3 @@
+E:\Projects\C#Part2\Array\Arrays\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+E:\Projects\C#Part2\Array\Arrays\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+E:\Projects\C#Part2\Array\Arrays\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb

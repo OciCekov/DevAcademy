@@ -1,0 +1,6 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\CompareTwoArrays\bin\Debug\CompareTwoArrays.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\CompareTwoArrays\obj\Debug\CompareTwoArrays.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\CompareTwoArrays\obj\Debug\CompareTwoArrays.pdb
+E:\Projects\C#Part2\Array\Arrays\CompareTwoArrays\bin\Debug\CompareTwoArrays.exe.config
+E:\Projects\C#Part2\Array\Arrays\CompareTwoArrays\obj\Debug\CompareTwoArrays.exe
+E:\Projects\C#Part2\Array\Arrays\CompareTwoArrays\obj\Debug\CompareTwoArrays.pdb

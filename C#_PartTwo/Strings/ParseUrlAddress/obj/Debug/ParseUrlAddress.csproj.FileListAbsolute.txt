@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ParseUrlAddress\bin\Debug\ParseUrlAddress.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ParseUrlAddress\bin\Debug\ParseUrlAddress.exe
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ParseUrlAddress\bin\Debug\ParseUrlAddress.pdb
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ParseUrlAddress\obj\Debug\ParseUrlAddress.csprojResolveAssemblyReference.cache
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ParseUrlAddress\obj\Debug\ParseUrlAddress.exe
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ParseUrlAddress\obj\Debug\ParseUrlAddress.pdb

@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\FirstBiggerThanItsNeighbours\bin\Debug\FirstBiggerThanItsNeighbours.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\FirstBiggerThanItsNeighbours\bin\Debug\FirstBiggerThanItsNeighbours.exe
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\FirstBiggerThanItsNeighbours\bin\Debug\FirstBiggerThanItsNeighbours.pdb
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\FirstBiggerThanItsNeighbours\obj\Debug\FirstBiggerThanItsNeighbours.csprojResolveAssemblyReference.cache
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\FirstBiggerThanItsNeighbours\obj\Debug\FirstBiggerThanItsNeighbours.exe
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\FirstBiggerThanItsNeighbours\obj\Debug\FirstBiggerThanItsNeighbours.pdb

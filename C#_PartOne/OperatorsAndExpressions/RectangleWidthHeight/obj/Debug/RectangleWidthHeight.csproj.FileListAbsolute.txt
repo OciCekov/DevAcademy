@@ -1,0 +1,5 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\RectangleWidthHeight\bin\Debug\RectangleWidthHeight.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\RectangleWidthHeight\bin\Debug\RectangleWidthHeight.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\RectangleWidthHeight\bin\Debug\RectangleWidthHeight.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\RectangleWidthHeight\obj\Debug\RectangleWidthHeight.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\RectangleWidthHeight\obj\Debug\RectangleWidthHeight.pdb

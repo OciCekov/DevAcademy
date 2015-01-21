@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{4F529C1A-B8E8-4569-82D6-8AF0966FC6C6}"
+	ProjectSection(SolutionItems) = preProject
+		MusicAlbumsCatalogue.xml = MusicAlbumsCatalogue.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-6.ReadingXml", "2-6.ReadingXml\2-6.ReadingXml.csproj", "{F597B161-77E6-4C83-9356-0C36E087AC4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFromFile", "ReadFromFile\ReadFromFile.csproj", "{D68443C8-A2C8-4F8D-B486-F98923BCF66A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F597B161-77E6-4C83-9356-0C36E087AC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F597B161-77E6-4C83-9356-0C36E087AC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F597B161-77E6-4C83-9356-0C36E087AC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F597B161-77E6-4C83-9356-0C36E087AC4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D68443C8-A2C8-4F8D-B486-F98923BCF66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68443C8-A2C8-4F8D-B486-F98923BCF66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68443C8-A2C8-4F8D-B486-F98923BCF66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68443C8-A2C8-4F8D-B486-F98923BCF66A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

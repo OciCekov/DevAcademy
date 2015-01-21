@@ -1,0 +1,6 @@
+E:\OOP\MyHomeworks\ExtensionMethods\ExtensionLambdaLINQ\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+E:\OOP\MyHomeworks\ExtensionMethods\ExtensionLambdaLINQ\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+E:\OOP\MyHomeworks\ExtensionMethods\ExtensionLambdaLINQ\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+E:\OOP\MyHomeworks\ExtensionMethods\ExtensionLambdaLINQ\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+E:\OOP\MyHomeworks\ExtensionMethods\ExtensionLambdaLINQ\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+E:\OOP\MyHomeworks\ExtensionMethods\ExtensionLambdaLINQ\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

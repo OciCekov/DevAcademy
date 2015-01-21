@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\MaxInPartOfArray\bin\Debug\MaxInPartOfArray.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\MaxInPartOfArray\bin\Debug\MaxInPartOfArray.exe
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\MaxInPartOfArray\bin\Debug\MaxInPartOfArray.pdb
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\MaxInPartOfArray\obj\Debug\MaxInPartOfArray.csprojResolveAssemblyReference.cache
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\MaxInPartOfArray\obj\Debug\MaxInPartOfArray.exe
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\MaxInPartOfArray\obj\Debug\MaxInPartOfArray.pdb

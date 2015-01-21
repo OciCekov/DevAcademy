@@ -1,0 +1,5 @@
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ExpressionBrackets\bin\Debug\ExpressionBrackets.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ExpressionBrackets\obj\Debug\ExpressionBrackets.exe
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ExpressionBrackets\obj\Debug\ExpressionBrackets.pdb
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ExpressionBrackets\bin\Debug\ExpressionBrackets.exe
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\ExpressionBrackets\bin\Debug\ExpressionBrackets.pdb

@@ -1,0 +1,155 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration</title>
+    <style>
+        
+         table {
+             width: 500px;
+             border-collapse: collapse;
+         }
+         table, th, td {
+             border: 1px solid rgb(190, 190, 190);
+         }
+        #firstName, #lastName,#phone, #email {
+            width: 90%;
+        }
+        #address, #comments {
+            resize: none;
+            width: 90%
+        }
+        #city {
+            width: 90%;
+        }
+        #state {
+            width: 60px;
+        }
+        #countryes {
+            width: 60%;
+        }
+        #zip,#gender {
+            width: 20%;
+        }
+        #birthDay,#birthMonth {
+            width: 10%;
+        }
+        #birthYear {
+            width: 40%;
+        }
+        tfoot {
+            background-color:rgb(208, 236, 224);
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <section>
+        <form name="registration" method="GET" action="#">
+
+            <table>
+                <tbody>
+                    <tr>
+                        <td> <label for="lastName"><strong> Last Name</strong></label></td>
+                        <td colspan="3"> <input type="text" id="lastName" name="name" value="Todorov" /></td>
+                    </tr>
+
+                    <tr>
+                        <td> <label for="firstName"><strong>First Name</strong></label></td>
+                        <td colspan="3"> <input type="text" id="firstName" name="name" value="Pesho" /></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="address"><strong>Address</strong></label></td>
+                        <td colspan="3"> <textarea name="address" id="address" cols="50" rows="3">Somewhere in the middle of nowhere</textarea></td>
+                    </tr>
+
+                    <tr>
+                        <td> <label for="city"><strong>City</strong></label></td>
+                        <td> <input type="text" id="city" name="city" value="Liulin" /></td>
+                        <td><label for="state"><strong>State</strong></label></td>
+                        <td><input type="text" id="state" name="state" value="Unknown" /></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="zip"><strong>Zip/Postal Code</strong></label></td>
+                        <td colspan="3"> <input type="text" id="zip" name="zip" value="1234" /></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="countryes"><strong>Country</strong></label></td>
+                        <td colspan="3">
+                            <select id="countryes">
+                                <option selected="selected" value="BG">Bulgaria</option>
+                                <option value="NW"> Nowhere</option>
+                                <option value="SK">South Korea</option>
+                                <option value="N/A">Flight MH370</option>
+                            </select>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="phone"><strong>Phone</strong></label></td>
+                        <td colspan="3">
+                            <!--This is how it's shown but honestly, it looks better whe we use type = "tel"
+                        (+ <input type="text" id="countryCode" name="countryCode" value="359"/>)
+                        <input type="text" id="codeArea" name="codeArea" value="99"/>
+                        -<input type="text" id="number" name="number" value="354358" />
+                        -->
+                            <input type="tel" id="phone" name="phone" value="359464676" />
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td> <label for="email"><strong>E-mail</strong></label></td>
+                        <td colspan="3"> <input type="email" id="email" name="email" value="pesho@gmail.com" /></td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="birthMonth"></label><strong>Birth date</strong></td>
+                        <td colspan="3">
+                            Month <input type="text" id="birthMonth" name="birthMonth" value="06" />
+                            Day   <input type="text" id="birthDay" name="birthDay" value="26" />
+                            Year <input type="text" id="birthYear" name="birthYear" value="1999" />
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="gender"><strong>Gender</strong></label></td>
+                        <td colspan="3">
+                            <select id="gender">
+                                <option value="M" selected="selected">Male</option>
+                                <option value="F">Female</option>
+                                <option value="N/A">Azis</option>
+                            </select>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td id="semester"><strong>Starting Date</strong></td>
+                        <td colspan="3" id="semesterChoice">
+                            <label for="spring">Spring 2014</label>
+                            <input type="radio" id="spring" name="semester" value="spring" checked="checked" />
+                            <label for="summer">Summer 2014</label>
+                            <input type="radio" id="summer" name="semester" value="summer" />
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td><label for="comments"><strong>Comments/Questions</strong></label></td>
+                        <td colspan="3"><textarea name="comments" id="comments" cols="50" rows="4" placeholder="Tell us about your expirience"></textarea></td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="4">
+                            <input type="submit" name="submit" value="Submit" />
+                            <input type="reset" name="resetForm" value="Clear This Form" />
+                        </td>
+                    </tr>
+                </tfoot>
+
+            </table>
+        </form>
+    </section>
+</body>
+</html>

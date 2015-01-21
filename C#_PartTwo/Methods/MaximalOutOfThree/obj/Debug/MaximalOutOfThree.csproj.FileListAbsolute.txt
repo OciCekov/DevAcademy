@@ -1,0 +1,5 @@
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\MaximalOutOfThree\bin\Debug\MaximalOutOfThree.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\MaximalOutOfThree\bin\Debug\MaximalOutOfThree.exe
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\MaximalOutOfThree\bin\Debug\MaximalOutOfThree.pdb
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\MaximalOutOfThree\obj\Debug\MaximalOutOfThree.exe
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\MaximalOutOfThree\obj\Debug\MaximalOutOfThree.pdb

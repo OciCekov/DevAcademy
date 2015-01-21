@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\AddingTwoArrays\bin\Debug\AddingTwoArrays.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\AddingTwoArrays\bin\Debug\AddingTwoArrays.exe
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\AddingTwoArrays\bin\Debug\AddingTwoArrays.pdb
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\AddingTwoArrays\obj\Debug\AddingTwoArrays.csprojResolveAssemblyReference.cache
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\AddingTwoArrays\obj\Debug\AddingTwoArrays.exe
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\AddingTwoArrays\obj\Debug\AddingTwoArrays.pdb

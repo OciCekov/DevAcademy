@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog name="Catalog of Albums">
+  <album>
+    <name>RUN-DMC</name>
+    <artist>RUN-DMC</artist>
+    <year>1984</year>
+    <producer>Russell Simmons</producer>
+    <price currency="USD">20</price>
+    <songs>
+      <song>
+        <title>Hard Times</title>
+        <duration>3:52</duration>
+      </song>
+      <song>
+        <title>It's Like That</title>
+        <duration>4:50</duration>
+      </song>
+      <song>
+        <title>Here We Go</title>
+        <duration>4:06</duration>
+      </song>
+      <song>
+        <title>Sucker M.C.'s</title>
+        <duration>3:25</duration>
+      </song>
+      <song>
+        <title>Wake Up</title>
+        <duration>5:31</duration>
+      </song>
+      <song>
+        <title>RUN-DMC</title>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>It Takes A Nation Of Millions To Hold Us Back</name>
+    <artist>Public Enemy</artist>
+    <year>1988</year>
+    <producer>The Bomb Squad</producer>
+    <price currency="USD">50</price>
+    <songs>
+      <song>
+        <title>Countdown To Armageddon</title>
+      </song>
+      <duration>1:40</duration>
+      <song>
+        <title>Bring The Noise</title>
+        <duration>3:46</duration>
+      </song>
+      <song>
+        <title>Don't Believe The Hype</title>
+        <duration>5:19</duration>
+      </song>
+      <song>
+        <title>Mind Terrorist</title>
+        <duration>1:21</duration>
+      </song>
+      <song>
+        <title>Louder Than A Bomb</title>
+        <duration>3:37</duration>
+      </song>
+      <song>
+        <title>Show 'Em Watcha Got</title>
+        <duration>1:56</duration>
+      </song>
+      <song>
+        <title>Rebel Without a Pause</title>
+        <duration>5:02</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>STRAIGHT OUTTA COMPTON</name>
+    <artist>N.W.A</artist>
+    <year>1988</year>
+    <producer>Ruthless Records</producer>
+    <price currency="USD">21</price>
+    <songs>
+      <song>
+        <title>Straight Outta Compton</title>
+        <duration>4:19</duration>
+      </song>
+      <song>
+        <title>8 Ball</title>
+        <duration>5:45</duration>
+      </song>
+      <song>
+        <title>Something Like That</title>
+        <duration>3:35</duration>
+      </song>
+      <song>
+        <title>Express Yourself</title>
+        <duration>4:25</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Midnight Marauders</name>
+    <artist>A Tribe Called Quest</artist>
+    <year>1993</year>
+    <producer>A Tribe Called Quest, Large Professor, Skeff Anselm</producer>
+    <price currency="USD">50</price>
+    <songs>
+      <song>
+        <title>Midnight Marauders Tour Guide</title>
+        <duration>0:45</duration>
+      </song>
+      <song>
+        <title>Steve Biko (Stir It Up)</title>
+        <duration>3:11</duration>
+      </song>
+      <song>
+        <title>Award Tour</title>
+        <duration>3:46</duration>
+      </song>
+      <song>
+        <title>We Can Get Down</title>
+        <duration>5:30</duration>
+      </song>
+      <song>
+        <title>Clap Your Hands</title>
+        <duration>3:16</duration>
+      </song>
+      <song>
+        <title>Lyrics to Go</title>
+        <duration>4:30</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>

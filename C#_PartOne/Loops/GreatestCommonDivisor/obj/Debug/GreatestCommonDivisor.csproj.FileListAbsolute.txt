@@ -1,0 +1,6 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\GreatestCommonDivisor\bin\Debug\GreatestCommonDivisor.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.csprojResolveAssemblyReference.cache
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\GreatestCommonDivisor\obj\Debug\GreatestCommonDivisor.pdb

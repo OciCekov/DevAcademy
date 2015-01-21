@@ -1,0 +1,6 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\StoreThreeValues\bin\Debug\StoreThreeValues.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\StoreThreeValues\bin\Debug\StoreThreeValues.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\StoreThreeValues\bin\Debug\StoreThreeValues.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\StoreThreeValues\obj\Debug\SortDescendingValues.csprojResolveAssemblyReference.cache
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\StoreThreeValues\obj\Debug\StoreThreeValues.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\StoreThreeValues\obj\Debug\StoreThreeValues.pdb

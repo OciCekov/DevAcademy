@@ -1,0 +1,5 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\BooleanDivideCheck\bin\Debug\BooleanDivideCheck.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\BooleanDivideCheck\bin\Debug\BooleanDivideCheck.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\BooleanDivideCheck\bin\Debug\BooleanDivideCheck.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\BooleanDivideCheck\obj\Debug\BooleanDivideCheck.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\BooleanDivideCheck\obj\Debug\BooleanDivideCheck.pdb

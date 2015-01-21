@@ -1,0 +1,6 @@
+E:\OOP\MyHomeworks\FundamentalPrinciples2\FundamentalPrinciples\DefineException\bin\Debug\DefineException.exe.config
+E:\OOP\MyHomeworks\FundamentalPrinciples2\FundamentalPrinciples\DefineException\bin\Debug\DefineException.exe
+E:\OOP\MyHomeworks\FundamentalPrinciples2\FundamentalPrinciples\DefineException\bin\Debug\DefineException.pdb
+E:\OOP\MyHomeworks\FundamentalPrinciples2\FundamentalPrinciples\DefineException\obj\Debug\DefineException.csprojResolveAssemblyReference.cache
+E:\OOP\MyHomeworks\FundamentalPrinciples2\FundamentalPrinciples\DefineException\obj\Debug\DefineException.exe
+E:\OOP\MyHomeworks\FundamentalPrinciples2\FundamentalPrinciples\DefineException\obj\Debug\DefineException.pdb

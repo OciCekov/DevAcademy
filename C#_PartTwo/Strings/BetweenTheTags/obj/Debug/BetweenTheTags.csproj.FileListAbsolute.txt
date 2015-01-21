@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\BetweenTheTags\bin\Debug\BetweenTheTags.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\BetweenTheTags\bin\Debug\BetweenTheTags.exe
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\BetweenTheTags\bin\Debug\BetweenTheTags.pdb
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\BetweenTheTags\obj\Debug\BetweenTheTags.csprojResolveAssemblyReference.cache
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\BetweenTheTags\obj\Debug\BetweenTheTags.exe
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\BetweenTheTags\obj\Debug\BetweenTheTags.pdb

@@ -1,0 +1,6 @@
+E:\Projects\C#Part2\Array\Arrays\MaximalSum\bin\Debug\MaximalSum.exe.config
+E:\Projects\C#Part2\Array\Arrays\MaximalSum\bin\Debug\MaximalSum.exe
+E:\Projects\C#Part2\Array\Arrays\MaximalSum\bin\Debug\MaximalSum.pdb
+E:\Projects\C#Part2\Array\Arrays\MaximalSum\obj\Debug\MaximalSum.csprojResolveAssemblyReference.cache
+E:\Projects\C#Part2\Array\Arrays\MaximalSum\obj\Debug\MaximalSum.exe
+E:\Projects\C#Part2\Array\Arrays\MaximalSum\obj\Debug\MaximalSum.pdb

@@ -1,0 +1,5 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\StolenForExperiments\bin\Debug\StolenForExperiments.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\StolenForExperiments\bin\Debug\StolenForExperiments.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\StolenForExperiments\bin\Debug\StolenForExperiments.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\StolenForExperiments\obj\Debug\StolenForExperiments.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\StolenForExperiments\obj\Debug\StolenForExperiments.pdb

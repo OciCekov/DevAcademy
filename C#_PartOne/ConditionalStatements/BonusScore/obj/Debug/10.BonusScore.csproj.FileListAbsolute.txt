@@ -1,0 +1,3 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\BonusScore\bin\Debug\BonusScore.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\BonusScore\obj\Debug\BonusScore.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\BonusScore\obj\Debug\BonusScore.pdb

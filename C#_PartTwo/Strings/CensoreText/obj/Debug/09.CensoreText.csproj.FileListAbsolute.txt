@@ -1,0 +1,3 @@
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\CensoreText\bin\Debug\CensoreText.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\CensoreText\obj\Debug\CensoreText.exe
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\CensoreText\obj\Debug\CensoreText.pdb

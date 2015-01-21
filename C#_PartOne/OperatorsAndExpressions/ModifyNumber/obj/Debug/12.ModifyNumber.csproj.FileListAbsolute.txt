@@ -1,0 +1,3 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\ModifyNumber\bin\Debug\ModifyNumber.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\ModifyNumber\obj\Debug\ModifyNumber.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\ModifyNumber\obj\Debug\ModifyNumber.pdb

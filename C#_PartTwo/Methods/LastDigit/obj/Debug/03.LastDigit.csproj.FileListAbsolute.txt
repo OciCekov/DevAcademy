@@ -1,0 +1,3 @@
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\LastDigit\bin\Debug\LastDigit.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\LastDigit\obj\Debug\LastDigit.exe
+E:\Telerik StuffC#2\MyHomeworks\Methods\Methods\LastDigit\obj\Debug\LastDigit.pdb

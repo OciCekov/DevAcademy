@@ -1,0 +1,24 @@
+table {
+	border: 1px solid black;
+	text-align: center;
+}
+th {
+	background-color: gray;
+	font-style: bold;
+}
+
+tr:nth-child(even) {
+	background: #CCC;
+}
+
+tr:nth-child(odd) {
+background: #FFF;
+}
+
+td:nth-child(2) {
+	text-align: left;
+}
+
+td{
+	border: 1px solid black;
+}

@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\MaximumTwentyCharacters\bin\Debug\MaximumTwentyCharacters.exe.config
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\MaximumTwentyCharacters\bin\Debug\MaximumTwentyCharacters.exe
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\MaximumTwentyCharacters\bin\Debug\MaximumTwentyCharacters.pdb
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\MaximumTwentyCharacters\obj\Debug\MaximumTwentyCharacters.csprojResolveAssemblyReference.cache
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\MaximumTwentyCharacters\obj\Debug\MaximumTwentyCharacters.exe
+E:\Telerik StuffC#2\MyHomeworks\Strings\Strings\MaximumTwentyCharacters\obj\Debug\MaximumTwentyCharacters.pdb

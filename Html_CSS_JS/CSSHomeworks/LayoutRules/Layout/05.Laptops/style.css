@@ -1,0 +1,125 @@
+﻿body {
+    margin: 0 auto;
+    width: 1008px;
+    font-family: 'Candara',Georgia,Calibri;
+    font-size: 16px;
+    height: 609px;
+}
+
+.clearfix {
+    zoom: 1;
+}
+
+    .clearfix:after {
+        content: "";
+        display: block;
+        clear: both;
+        height: 0;
+    }
+
+nav ul {
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav a {
+    padding: 0 10px;
+    color: #1DB7F1;
+    font-size: 1.6em;
+    font-weight: bold;
+}
+
+article, section {
+    border: 2px solid #444;
+}
+
+article {
+    position: relative;
+    overflow: hidden;
+    padding: 10px 224px 0 0;
+}
+
+    article section {
+        float: left;
+        margin: 0 0 10px 10px;
+        padding: 10px 20px;
+        width: 265px;
+        height: 160px;
+    }
+
+        article section div {
+            font-size: 1.4em;
+        }
+
+    article h2 {
+        float: left;
+        margin-top: -0.85em;
+        padding: 0 7px;
+        background: #fff;
+        font-size: 25px;
+        font-weight: normal;
+    }
+
+    article ul {
+        float: right;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    article li {
+        margin-bottom: 10px;
+    }
+
+div.price {
+    position: relative;
+    height: 28px;
+    top: -110px;
+    left: 8px;
+}
+
+div.intel {
+    position: relative;
+    top: -80px;
+    left: 155px;
+    width: 134px;
+    height: 33px;
+}
+
+div.ssd {
+    position: relative;
+    top: -111px;
+    left: 160px;
+    width: 109px;
+    height: 27px;
+}
+
+div.ddr {
+    position: relative;
+    top: -94px;
+    left: 159px;
+    width: 115px;
+    height: 25px;
+}
+
+img {
+    position: relative;
+    width: 173px;
+    height: 101px;
+    top: -15px;
+    left: -16px;
+}
+
+aside {
+    margin: 50px 0 0 0;
+    position: relative;
+    top: -416px;
+    right: -643px;
+    width: 351px;
+    text-align: center;
+    font-size: 25px;
+    height: 392px;
+}

@@ -1,0 +1,9 @@
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task07_Appending\bin\Debug\Task07_Appending.exe.config
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task07_Appending\bin\Debug\Task07_Appending.exe
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task07_Appending\bin\Debug\Task07_Appending.pdb
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task07_Appending\obj\Debug\Task07_Appending.csprojResolveAssemblyReference.cache
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task07_Appending\obj\Debug\Task07_Appending.exe
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task07_Appending\obj\Debug\Task07_Appending.pdb
+C:\Users\Oci's\Desktop\T7_ADO.NET\T7_ADO.NET\T7_ADO.NET\Task07_Appending\bin\Debug\Task07_Appending.exe.config
+C:\Users\Oci's\Desktop\T7_ADO.NET\T7_ADO.NET\T7_ADO.NET\Task07_Appending\obj\Debug\Task07_Appending.exe
+C:\Users\Oci's\Desktop\T7_ADO.NET\T7_ADO.NET\T7_ADO.NET\Task07_Appending\obj\Debug\Task07_Appending.pdb

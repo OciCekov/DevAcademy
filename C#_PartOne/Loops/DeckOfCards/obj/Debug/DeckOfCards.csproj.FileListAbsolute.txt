@@ -1,0 +1,6 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\DeckOfCards\bin\Debug\DeckOfCards.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\DeckOfCards\bin\Debug\DeckOfCards.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\DeckOfCards\bin\Debug\DeckOfCards.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\DeckOfCards\obj\Debug\DeckOfCards.csprojResolveAssemblyReference.cache
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\DeckOfCards\obj\Debug\DeckOfCards.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\DeckOfCards\obj\Debug\DeckOfCards.pdb

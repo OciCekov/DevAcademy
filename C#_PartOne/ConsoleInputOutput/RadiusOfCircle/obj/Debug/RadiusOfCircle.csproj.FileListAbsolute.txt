@@ -1,0 +1,5 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\RadiusOfCircle\bin\Debug\RadiusOfCircle.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\RadiusOfCircle\bin\Debug\RadiusOfCircle.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\RadiusOfCircle\bin\Debug\RadiusOfCircle.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\RadiusOfCircle\obj\Debug\RadiusOfCircle.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\RadiusOfCircle\obj\Debug\RadiusOfCircle.pdb

@@ -1,0 +1,12 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\IncreasingSequence\bin\Debug\IncreasingSequence.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\IncreasingSequence\obj\Debug\IncreasingSequence.csprojResolveAssemblyReference.cache
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\IncreasingSequence\bin\Debug\IncreasingSequence.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\IncreasingSequence\bin\Debug\IncreasingSequence.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\IncreasingSequence\obj\Debug\IncreasingSequence.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\C#Part2\Array\Arrays\IncreasingSequence\obj\Debug\IncreasingSequence.pdb
+E:\Projects\C#Part2\Array\Arrays\IncreasingSequence\bin\Debug\IncreasingSequence.exe.config
+E:\Projects\C#Part2\Array\Arrays\IncreasingSequence\obj\Debug\IncreasingSequence.exe
+E:\Projects\C#Part2\Array\Arrays\IncreasingSequence\obj\Debug\IncreasingSequence.pdb
+E:\Projects\C#Part2\Array\Arrays\IncreasingSequence\bin\Debug\IncreasingSequence.exe
+E:\Projects\C#Part2\Array\Arrays\IncreasingSequence\bin\Debug\IncreasingSequence.pdb
+E:\Projects\C#Part2\Array\Arrays\IncreasingSequence\obj\Debug\IncreasingSequence.csprojResolveAssemblyReference.cache

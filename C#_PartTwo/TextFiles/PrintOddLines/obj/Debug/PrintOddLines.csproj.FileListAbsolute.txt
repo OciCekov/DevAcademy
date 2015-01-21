@@ -1,0 +1,6 @@
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\PrintOddLines\bin\Debug\PrintOddLines.exe.config
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\PrintOddLines\bin\Debug\PrintOddLines.exe
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\PrintOddLines\bin\Debug\PrintOddLines.pdb
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\PrintOddLines\obj\Debug\PrintOddLines.csprojResolveAssemblyReference.cache
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\PrintOddLines\obj\Debug\PrintOddLines.exe
+E:\Telerik StuffC#2\MyHomeworks\TextFiles\TextFiles\PrintOddLines\obj\Debug\PrintOddLines.pdb

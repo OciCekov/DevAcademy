@@ -1,0 +1,6 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\SumOfS\bin\Debug\SumOfS.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\SumOfS\bin\Debug\SumOfS.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\SumOfS\bin\Debug\SumOfS.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\SumOfS\obj\Debug\SumForS.csprojResolveAssemblyReference.cache
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\SumOfS\obj\Debug\SumOfS.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\SumOfS\obj\Debug\SumOfS.pdb

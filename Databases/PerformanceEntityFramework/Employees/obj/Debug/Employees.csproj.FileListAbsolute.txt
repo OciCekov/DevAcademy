@@ -1,0 +1,12 @@
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\Employees\bin\Debug\Employees.exe.config
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\Employees\bin\Debug\Employees.exe
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\Employees\bin\Debug\Employees.pdb
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\Employees\bin\Debug\EntityFramework.dll
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\Employees\bin\Debug\EntityFramework.SqlServer.dll
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\Employees\bin\Debug\TelerikAcademyDB.exe
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\Employees\bin\Debug\TelerikAcademyDB.pdb
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\Employees\bin\Debug\EntityFramework.xml
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\Employees\bin\Debug\EntityFramework.SqlServer.xml
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\Employees\obj\Debug\Employees.exe
+E:\AdatabaseS\EntityFrameworkPerformance\EntityPerformance\Employees\obj\Debug\Employees.pdb

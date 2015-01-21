@@ -1,0 +1,6 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\SumOfNumbers\obj\Debug\SumOfNumbers.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\ConsoleInputOutput\SumOfNumbers\obj\Debug\07.SumOfNumbers.csprojResolveAssemblyReference.cache

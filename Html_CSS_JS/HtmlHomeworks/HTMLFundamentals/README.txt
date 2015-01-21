@@ -1,0 +1,3 @@
+Please keep in mind that this is my first touch with html. And yes weren't really sure about the first two excersizes, so I left them white like it is in the slides. About the "Go back to general index" it was better to do it like this, because  it fitted better with the hole thing, I hope it's not annoyng.
+If you start with index.html in browser you will see all of the excersizes.
+Thanks for checking this homework. 

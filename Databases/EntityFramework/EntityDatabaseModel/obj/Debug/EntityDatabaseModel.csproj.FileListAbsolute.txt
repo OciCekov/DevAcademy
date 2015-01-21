@@ -1,0 +1,10 @@
+E:\AdatabaseS\EntityFrameworkHomework\EntityDatabaseModel\bin\Debug\EntityDatabaseModel.dll.config
+E:\AdatabaseS\EntityFrameworkHomework\EntityDatabaseModel\bin\Debug\EntityDatabaseModel.dll
+E:\AdatabaseS\EntityFrameworkHomework\EntityDatabaseModel\bin\Debug\EntityDatabaseModel.pdb
+E:\AdatabaseS\EntityFrameworkHomework\EntityDatabaseModel\bin\Debug\EntityFramework.dll
+E:\AdatabaseS\EntityFrameworkHomework\EntityDatabaseModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\AdatabaseS\EntityFrameworkHomework\EntityDatabaseModel\bin\Debug\EntityFramework.xml
+E:\AdatabaseS\EntityFrameworkHomework\EntityDatabaseModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\AdatabaseS\EntityFrameworkHomework\EntityDatabaseModel\obj\Debug\EntityDatabaseModel.csprojResolveAssemblyReference.cache
+E:\AdatabaseS\EntityFrameworkHomework\EntityDatabaseModel\obj\Debug\EntityDatabaseModel.dll
+E:\AdatabaseS\EntityFrameworkHomework\EntityDatabaseModel\obj\Debug\EntityDatabaseModel.pdb

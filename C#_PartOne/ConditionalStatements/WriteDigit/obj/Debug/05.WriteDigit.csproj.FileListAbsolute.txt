@@ -1,0 +1,3 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\WriteDigit\bin\Debug\WriteDigit.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\WriteDigit\obj\Debug\WriteDigit.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\ConditionalStatements\WriteDigit\obj\Debug\WriteDigit.pdb

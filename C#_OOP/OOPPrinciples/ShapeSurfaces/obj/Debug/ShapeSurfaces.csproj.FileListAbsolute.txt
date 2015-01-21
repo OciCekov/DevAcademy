@@ -1,0 +1,6 @@
+E:\OOP\MyHomeworks\FundamentalPrinciples2\FundamentalPrinciples\ShapeSurfaces\bin\Debug\ShapeSurfaces.exe.config
+E:\OOP\MyHomeworks\FundamentalPrinciples2\FundamentalPrinciples\ShapeSurfaces\obj\Debug\ShapeSurfaces.csprojResolveAssemblyReference.cache
+E:\OOP\MyHomeworks\FundamentalPrinciples2\FundamentalPrinciples\ShapeSurfaces\bin\Debug\ShapeSurfaces.exe
+E:\OOP\MyHomeworks\FundamentalPrinciples2\FundamentalPrinciples\ShapeSurfaces\bin\Debug\ShapeSurfaces.pdb
+E:\OOP\MyHomeworks\FundamentalPrinciples2\FundamentalPrinciples\ShapeSurfaces\obj\Debug\ShapeSurfaces.exe
+E:\OOP\MyHomeworks\FundamentalPrinciples2\FundamentalPrinciples\ShapeSurfaces\obj\Debug\ShapeSurfaces.pdb

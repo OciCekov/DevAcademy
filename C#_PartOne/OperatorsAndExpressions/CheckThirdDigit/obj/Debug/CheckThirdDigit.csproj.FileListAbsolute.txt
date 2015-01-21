@@ -1,0 +1,6 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\CheckThirdDigit\bin\Debug\CheckThirdDigit.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\CheckThirdDigit\bin\Debug\CheckThirdDigit.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\CheckThirdDigit\bin\Debug\CheckThirdDigit.pdb
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\CheckThirdDigit\obj\Debug\CheckThirdDigit.csprojResolveAssemblyReference.cache
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\CheckThirdDigit\obj\Debug\CheckThirdDigit.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\operatorsStatements\OperatorsExpressionsStatements\CheckThirdDigit\obj\Debug\CheckThirdDigit.pdb

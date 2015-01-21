@@ -1,0 +1,3 @@
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\SumOfS\bin\Debug\SumOfS.exe.config
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\SumOfS\obj\Debug\SumOfS.exe
+G:\Users\oci\Documents\Visual Studio 2013\Projects\ConditionalStatements\Loops\SumOfS\obj\Debug\SumOfS.pdb

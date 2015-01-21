@@ -1,0 +1,9 @@
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task01_Categories_Northwind\bin\Debug\Task01_Categories_Northwind.exe.config
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task01_Categories_Northwind\bin\Debug\Task01_Categories_Northwind.exe
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task01_Categories_Northwind\bin\Debug\Task01_Categories_Northwind.pdb
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task01_Categories_Northwind\obj\Debug\Task01_Categories_Northwind.csprojResolveAssemblyReference.cache
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task01_Categories_Northwind\obj\Debug\Task01_Categories_Northwind.exe
+C:\Users\Kremena\Documents\Visual Studio 2013\Projects\_SQL\T7_ADO.NET\VS2013\T7_ADO.NET\Task01_Categories_Northwind\obj\Debug\Task01_Categories_Northwind.pdb
+C:\Users\Oci's\Desktop\T7_ADO.NET\T7_ADO.NET\T7_ADO.NET\Task01_Categories_Northwind\bin\Debug\Task01_Categories_Northwind.exe.config
+C:\Users\Oci's\Desktop\T7_ADO.NET\T7_ADO.NET\T7_ADO.NET\Task01_Categories_Northwind\obj\Debug\Task01_Categories_Northwind.exe
+C:\Users\Oci's\Desktop\T7_ADO.NET\T7_ADO.NET\T7_ADO.NET\Task01_Categories_Northwind\obj\Debug\Task01_Categories_Northwind.pdb
