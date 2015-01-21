@@ -1,0 +1,18 @@
+D:\Telerik\cSharp_2\TeamWork\ThunderBirdTeamProject\ThunderBird\bin\Debug\ThunderBird.exe.config
+D:\Telerik\cSharp_2\TeamWork\ThunderBirdTeamProject\ThunderBird\bin\Debug\ThunderBird.exe
+D:\Telerik\cSharp_2\TeamWork\ThunderBirdTeamProject\ThunderBird\bin\Debug\ThunderBird.pdb
+D:\Telerik\cSharp_2\TeamWork\ThunderBirdTeamProject\ThunderBird\obj\Debug\ThunderBird.csprojResolveAssemblyReference.cache
+D:\Telerik\cSharp_2\TeamWork\ThunderBirdTeamProject\ThunderBird\obj\Debug\ThunderBird.exe
+D:\Telerik\cSharp_2\TeamWork\ThunderBirdTeamProject\ThunderBird\obj\Debug\ThunderBird.pdb
+C:\Users\Mario\Desktop\asd\New folder\ThunderBirdTeamProject\ThunderBird\bin\Debug\ThunderBird.exe.config
+C:\Users\Mario\Desktop\asd\New folder\ThunderBirdTeamProject\ThunderBird\obj\Debug\ThunderBird.exe
+C:\Users\Mario\Desktop\asd\New folder\ThunderBirdTeamProject\ThunderBird\obj\Debug\ThunderBird.pdb
+C:\Users\Mario\Desktop\asd\New folder\ThunderBirdTeamProject\ThunderBird\bin\Debug\ThunderBird.exe
+C:\Users\Mario\Desktop\asd\New folder\ThunderBirdTeamProject\ThunderBird\bin\Debug\ThunderBird.pdb
+C:\Users\Mario\Desktop\asd\New folder\ThunderBirdTeamProject\ThunderBird\obj\Debug\ThunderBird.csprojResolveAssemblyReference.cache
+C:\Users\Oci's\Desktop\asdc\ThunderBirdTeamProject\ThunderBird\bin\Debug\ThunderBird.exe.config
+C:\Users\Oci's\Desktop\asdc\ThunderBirdTeamProject\ThunderBird\obj\Debug\ThunderBird.exe
+C:\Users\Oci's\Desktop\asdc\ThunderBirdTeamProject\ThunderBird\obj\Debug\ThunderBird.pdb
+C:\Users\Oci's\Desktop\asdc\ThunderBirdTeamProject\ThunderBird\bin\Debug\ThunderBird.exe
+C:\Users\Oci's\Desktop\asdc\ThunderBirdTeamProject\ThunderBird\bin\Debug\ThunderBird.pdb
+C:\Users\Oci's\Desktop\asdc\ThunderBirdTeamProject\ThunderBird\obj\Debug\ThunderBird.csprojResolveAssemblyReference.cache

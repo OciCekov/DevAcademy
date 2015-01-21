@@ -1,0 +1,15 @@
+The objective of the game is to find all the pairs in the deck. 
+The size of the deck depends on the level you choose:
+
+1) Easy - 4x4 cards
+2) Medium - 6x6 cards
+3) Hard - 8x8 cards
+
+Move the cursor with the arrow keys on the keyboard until you reach the card 
+you want to open and then press Enter. Do the same for the second card. 
+If they match you have found a pair and the cards will remain open. 
+If they don't match the cards will be closed. 
+
+Do the same until you find all the pairs. 
+Try to do it for the least possible time with the least possible moves.
+
